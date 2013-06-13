@@ -9,7 +9,6 @@ import android.provider.CalendarContract.Calendars;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.content.ContentUris;
-import android.database.CharArrayBuffer;
 import android.database.Cursor;
 import android.text.format.DateUtils;
 import android.view.Menu;
